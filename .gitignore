@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+chinook.sqlite
+!data/chinook.sqlite

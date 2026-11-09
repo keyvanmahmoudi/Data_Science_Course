@@ -1,0 +1,22 @@
+product_id,product_name,category,unit_price
+P001,Wireless Earbuds,Electronics,2400000
+P002,Power Bank,Electronics,1150000
+P003,Smart Watch,Electronics,6800000
+P004,USB-C Cable,Electronics,180000
+P005,Bluetooth Speaker,Electronics,3200000
+P006,Python Handbook,Books,420000
+P007,Statistics Primer,Books,360000
+P008,Persian Poetry,Books,280000
+P009,Data Science Guide,Books,510000
+P010,Tea Set,Home,1350000
+P011,Desk Lamp,Home,890000
+P012,Rug (small),Home,2900000
+P013,Kettle,Home,1700000
+P014,T-Shirt,Clothing,450000
+P015,Jeans,Clothing,1250000
+P016,Sneakers,Clothing,2600000
+P017,Scarf,Clothing,380000
+P018,Saffron 4g,Grocery,650000
+P019,Pistachio 500g,Grocery,1900000
+P020,Dates 1kg,Grocery,420000
+P021,Green Tea,Grocery,230000
